@@ -1,4 +1,9 @@
 <!--<div align='center'>-->
+<img align="left" width="390" src="/github-metrics.svg" alt="Metrics">
+<!-- <img align="left" width="390"  src="/metrics.plugin.activity.svg" alt="Metrics"> -->
+<!-- <img align="right" width="390"  src="/metrics.plugin.calendar.full.svg" alt="Metrics"> -->
+
+
 - 👋 Hi, I’m Chukwuma👩🏽‍💻
 - 💞️ I’m looking to collaborate on Back-End Engineering Projects and Mixtual Reality/Game Development Projects.
 - 👀 I’m interested in Immersive Reality and Server-Side Engineering.
